@@ -1,6 +1,6 @@
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr
+  <tr>
     <td valign="middle" width="60%">
       <h1 align="left">👋 Xin chào, tôi là Anh Tuấn!</h1>
       <p align="left">
