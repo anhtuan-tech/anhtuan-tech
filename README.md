@@ -12,7 +12,6 @@
 - 📚 **Đang nghiên cứu:** Tối ưu hóa hạ tầng Cloud, CI/CD nâng cao và kiến trúc Microservices.
 - 💬 **Sẵn sàng chia sẻ về:** C#, Java, Quy trình Deploy hệ thống và Automation Testing.
 
-
 ## 💻 Tech Stack
 <div align="center">
   <table border="0" cellpadding="10" cellspacing="0" width="100%">
@@ -74,6 +73,7 @@
     </tr>
   </table>
 </div>
+
 ## 📊 GitHub Stats
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0" align="center">
