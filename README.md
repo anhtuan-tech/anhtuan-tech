@@ -64,6 +64,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -72,6 +73,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
 
 ### 📊 Hoạt động cá nhân (GitHub Metrics)
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=anhtuan-tech&theme=dark&show_icons=true&hide_border=false&count_private=true)
@@ -85,14 +91,5 @@
 
 ### 🎨 Ngôn ngữ lập trình chính
 ![](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anhtuan-tech&theme=dark&hide_border=false&layout=compact&count_private=true)
-
-<br/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
-
-👁️ **Lượt ghé thăm Profile:** [![]([https://visitcount.itsvg.in/api?id=anhtuan-tech&icon=0&color=0)](https://visitcount.itsvg.in](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanhtuan-tech&count_bg=%23795548&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false))
 
 </div>
