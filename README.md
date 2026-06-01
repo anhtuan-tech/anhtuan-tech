@@ -5,14 +5,10 @@
 
 *Làm những điều phức tạp trở nên đơn giản.*
 
----
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tuan.anh.1554)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuanleanh15052004@gmail.com)
 
 </div>
-
----
 
 ## 🎯 Định hướng & Trọng tâm hiện tại
 
