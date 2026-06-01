@@ -12,7 +12,6 @@
 - 📚 **Đang nghiên cứu:** Tối ưu hóa hạ tầng Cloud, CI/CD nâng cao và kiến trúc Microservices.
 - 💬 **Sẵn sàng chia sẻ về:** C#, Java, Quy trình Deploy hệ thống và Automation Testing.
 
----
 
 ## 💻 Tech Stack
 
@@ -67,25 +66,28 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<table border="0" cellpadding="10" cellspacing="0" align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>✍️ Random Dev Quote</h4>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>🔥 Chuỗi đóng góp (Streak Stats)</h4>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anhtuan-tech&theme=dark&hide_border=false" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>📊 Hoạt động cá nhân (GitHub Metrics)</h4>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=anhtuan-tech&theme=dark&show_icons=true&hide_border=false&count_private=true" width="100%" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>🎨 Ngôn ngữ lập trình chính</h4>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anhtuan-tech&theme=dark&hide_border=false&layout=compact&count_private=true" width="100%" />
+    </td>
+  </tr>
+</table>
 <br/>
-
-### 📊 Hoạt động cá nhân (GitHub Metrics)
-![](https://github-readme-stats-one-bice.vercel.app/api?username=anhtuan-tech&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
-<br/>
-
-### 🔥 Chuỗi đóng góp (Streak Stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=anhtuan-tech&theme=dark&hide_border=false)
-
-<br/>
-
-### 🎨 Ngôn ngữ lập trình chính
-![](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anhtuan-tech&theme=dark&hide_border=false&layout=compact&count_private=true)
-
 </div>
