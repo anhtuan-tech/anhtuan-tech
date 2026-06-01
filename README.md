@@ -1,4 +1,28 @@
-# 💻 Tech Stack
+<div align="center">
+
+# 👋 Xin chào, tôi là Anh Tuấn!
+### 🚀 Full-Stack Developer / DevOps Enthusiast
+
+*Làm những điều phức tạp trở nên đơn giản.*
+
+---
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tuan.anh.1554)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuanleanh15052004@gmail.com)
+
+</div>
+
+---
+
+## 🎯 Định hướng & Trọng tâm hiện tại
+
+- 🔭 **Dự án hiện tại:** Phát triển các hệ thống Web Full-stack hiệu năng cao sử dụng React và .NET.
+- 📚 **Đang nghiên cứu:** Tối ưu hóa hạ tầng Cloud, CI/CD nâng cao và kiến trúc Microservices.
+- 💬 **Sẵn sàng chia sẻ về:** C#, Java, Quy trình Deploy hệ thống và Automation Testing.
+
+---
+
+## 💻 Tech Stack
 
 ### 🚀 Languages (Ngôn ngữ lập trình)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -31,14 +55,44 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-### 🧪 Automation Testing (Kiểm thử tự động)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### 📐 Design Tools (Thiết kế đồ họa / UI-UX)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
 ### 👥 Version Control & Collaboration (Quản lý mã nguồn & Cộng tác)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🧪 Automation Testing (Kiểm thử tự động)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 📐 Design Tools & Environments (Hệ điều hành, Công cụ viết code & Thiết kế)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 📊 GitHub Stats & Trophies
+
+<div align="center">
+
+### 📊 Hoạt động & Ngôn ngữ sử dụng chính
+![](https://github-readme-stats.vercel.app/api?username=anhtuan-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuan-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
+### 🔝 Các Repo đóng góp nhiều nhất
+![](https://github-contributor-stats.vercel.app/api?username=anhtuan-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
+
+👁️ **Lượt ghé thăm Profile:** [![](https://visitcount.itsvg.in/api?id=anhtuan-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
