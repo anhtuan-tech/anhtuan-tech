@@ -28,10 +28,32 @@
 
 ## 🎯 Định hướng & Trọng tâm hiện tại
 
-- 🔭 **Dự án hiện tại:** Phát triển các hệ thống Web Full-stack hiệu năng cao sử dụng React và .NET.
-- 📚 **Đang nghiên cứu:** Tối ưu hóa hạ tầng Cloud, CI/CD nâng cao và kiến trúc Microservices.
-- 💬 **Sẵn sàng chia sẻ về:** C#, Java, Quy trình Deploy hệ thống và Automation Testing.
-
+<div align="center">
+  <table border="0" cellpadding="15" cellspacing="0" width="100%">
+    <tr>
+      <td align="center" valign="top" width="33.33%" style="background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
+        <br/>
+        <img src="https://img.shields.io/badge/🔭%20DỰ%20ÁN%20HIỆN%20TẠI-007ACC?style=for-the-badge" alt="Current Project" />
+        <br/><br/>
+        <p align="left">Phát triển các hệ thống <b>Web Full-stack</b> hiệu năng cao sử dụng hai nền tảng cốt lõi là <b>React</b> và <b>.NET</b>.</p>
+      </td>
+      <td width="2%"></td>
+      <td align="center" valign="top" width="33.33%" style="background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
+        <br/>
+        <img src="https://img.shields.io/badge/📚%20ĐANG%20NGHIÊN%20CỨU-239120?style=for-the-badge" alt="Researching" />
+        <br/><br/>
+        <p align="left">Tối ưu hóa hạ tầng điện toán đám mây Cloud, xây dựng quy trình <b>CI/CD nâng cao</b> và kiến trúc <b>Microservices</b>.</p>
+      </td>
+      <td width="2%"></td>
+      <td align="center" valign="top" width="33.33%" style="background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
+        <br/>
+        <img src="https://img.shields.io/badge/💬%20SẴN%20SÀNG%20CHIA%20SẺ-D14836?style=for-the-badge" alt="Sharing" />
+        <br/><br/>
+        <p align="left">Trao đổi tư duy về ngôn ngữ <b>C#</b>, <b>Java</b>, quy trình tối ưu Deploy hệ thống và <b>Automation Testing</b>.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 ## 💻 Tech Stack
 <div align="center">
   <table border="0" cellpadding="10" cellspacing="0" width="100%">
