@@ -5,14 +5,14 @@
       <h1 align="left">👋 Xin chào, tôi là Anh Tuấn!</h1>
       <p align="left">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=239120&vCenter=true&width=450&lines=Full-Stack+Developer;Net+%26+React+Specialist;DevOps+Enthusiast" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=239120&vCenter=true&width=450&lines=Full-Stack+Developer;.NET+%26+React+Specialist;DevOps+Enthusiast" alt="Typing SVG" />
         </a>
       </p>
       <h3 align="left"><i>"Làm những điều phức tạp trở nên đơn giản."</i></h3>
       <br/>
     </td>
     <td align="center" valign="middle" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer GIF" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleWdyZ295amtsZ294cXN5Z3Rwa3ZidXN6Ynd6M3E0ZXA0Y3ZsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%" alt="Developer GIF" />
     </td>
   </tr>
 </table>
@@ -53,7 +53,7 @@
   <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr>
       <td valign="top" width="50%">
-        <h4>🚀 Ngôn ngữ lập trình</h4>
+        <h4>🚀 Languages</h4>
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
       </td>
       <td valign="top" width="50%">
-        <h4>🎨 Frontend Frameworks</h4>
+        <h4>🎨 Framework</h4>
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
         <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -80,7 +80,7 @@
         <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
       </td>
       <td valign="top" width="50%">
-        <h4>🚀 DevOps & Deployment</h4>
+        <h4>🗄️ Databases & Storage</h4>
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
         <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" /><br/>
