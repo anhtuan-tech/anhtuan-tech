@@ -73,14 +73,18 @@
 
 <div align="center">
 
-### 📊 Hoạt động & Ngôn ngữ sử dụng chính
-![](https://github-readme-stats.vercel.app/api?username=anhtuan-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuan-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 Hoạt động cá nhân (GitHub Metrics)
+![](https://github-readme-stats-one-bice.vercel.app/api?username=anhtuan-tech&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 <br/>
 
-### 🔝 Các Repo đóng góp nhiều nhất
-![](https://github-contributor-stats.vercel.app/api?username=anhtuan-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔥 Chuỗi đóng góp (Streak Stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anhtuan-tech&theme=dark&hide_border=false)
+
+<br/>
+
+### 🎨 Ngôn ngữ lập trình chính
+![](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anhtuan-tech&theme=dark&hide_border=false&layout=compact&count_private=true)
 
 <br/>
 
@@ -89,6 +93,6 @@
 
 <br/>
 
-👁️ **Lượt ghé thăm Profile:** [![](https://visitcount.itsvg.in/api?id=anhtuan-tech&icon=0&color=0)](https://visitcount.itsvg.in)
+👁️ **Lượt ghé thăm Profile:** [![]([https://visitcount.itsvg.in/api?id=anhtuan-tech&icon=0&color=0)](https://visitcount.itsvg.in](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanhtuan-tech&count_bg=%23795548&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false))
 
 </div>
