@@ -10,14 +10,6 @@
       </p>
       <h3 align="left"><i>"Làm những điều phức tạp trở nên đơn giản."</i></h3>
       <br/>
-      <p align="left">
-        <a href="https://www.facebook.com/tuan.anh.1554" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-        </a> 
-        <a href="mailto:tuanlace180905@fpt.edu.vn" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-        </a>
-      </p>
     </td>
     <td align="center" valign="middle" width="40%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer GIF" />
