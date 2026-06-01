@@ -78,7 +78,7 @@
 <div align="center">
 
 ### 📊 Hoạt động & Ngôn ngữ sử dụng chính
-![](https://github-readme-stats.vercel.app/api?username=anhtuan-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=anhtuan-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuan-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
