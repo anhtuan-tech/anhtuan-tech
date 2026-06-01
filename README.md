@@ -1,9 +1,29 @@
 <div align="center">
-
-# 👋 Xin chào, tôi là Anh Tuấn!
-### 🚀 Full-Stack Developer / DevOps Enthusiast
-
-*Làm những điều phức tạp trở nên đơn giản.*
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td valign="middle" width="60%">
+      <h1 align="left">👋 Xin chào, tôi là Anh Tuấn!</h1>
+      <p align="left">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=239120&vCenter=true&width=450&lines=Full-Stack+Developer;Net+%26+React+Specialist;DevOps+Enthusiast" alt="Typing SVG" />
+        </a>
+      </p>
+      <h3 align="left"><i>"Làm những điều phức tạp trở nên đơn giản."</i></h3>
+      <br/>
+      <p align="left">
+        <a href="https://www.facebook.com/tuan.anh.1554" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+        </a> 
+        <a href="mailto:tuanlace180905@fpt.edu.vn" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        </a>
+      </p>
+    </td>
+    <td align="center" valign="middle" width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ## 🎯 Định hướng & Trọng tâm hiện tại
