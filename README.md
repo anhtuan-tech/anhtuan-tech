@@ -54,7 +54,9 @@
     </tr>
   </table>
 </div>
+
 ## 💻 Tech Stack
+
 <div align="center">
   <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr>
@@ -117,6 +119,7 @@
 </div>
 
 ## 📊 GitHub Stats
+
 <div align="center">
 <table border="0" cellpadding="10" cellspacing="0" align="center">
   <tr>
